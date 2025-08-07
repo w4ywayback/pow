@@ -1,0 +1,24 @@
+Lab access:
+ 
+1. Visit https://esi.learnondemand.net/
+ 
+2. Click the Sign In button
+ 
+3. From the 3 sign in options, select **Microsoft account** and sign in with an existing @hotmail @live @outlook or create a new one. 
+Please don't use your work email.
+ 
+ 
+4. Click the option to redeem training key.
+ 
+The training key is: 263372FEE800429C
+ 
+5. After inputting the training key, click ok. The labs will be visible. If you don't see the launch buttons, refresh the page.
+ 
+6. Click the launch button for the lab you would like to start with and wait whilst a Windows lab machine is built for you.
+ 
+- Lab instructions appear towards the right of your screen
+- User credentials are available under the resources tab (top right corner)
+- Access to the lab is available for 6 months
+- Labs can not be saved, so if you make a start on one lab, you will need to complete or start again if you decide to stop for a later date.
+- If you try to build resources you're not allowed to, you may be blocked by policy
+
